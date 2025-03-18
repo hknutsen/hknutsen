@@ -4,6 +4,7 @@
   - Enabling DevOps
 - 🌱 I'm currently learning:
   - Databricks
+  - Apache Spark
   - Python and Jupyter
   - C# and .NET
   - Linux and Docker
