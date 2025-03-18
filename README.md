@@ -9,9 +9,10 @@
   - Linux and Docker
 - 💬 Ask me about:
   - Microsoft Azure
+  - Git / GitHub
   - HashiCorp Terraform / Bicep
   - Bash / PowerShell
-- I want to learn:
+- 🚀 I want to learn:
   - Kubernetes
   - JavaScript / TypeScript
   - Java
