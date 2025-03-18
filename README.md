@@ -15,6 +15,6 @@
   - Bash / PowerShell
 - 🚀 I want to learn:
   - Kubernetes
-  - JavaScript / TypeScript
+  - JavaScript / TypeScript and Node.js
   - Java
 - ⚡ Fun fact: metal enthusiast 🤘
