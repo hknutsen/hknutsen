@@ -3,8 +3,7 @@
 - 🔭 I'm currently working on:
   - Enabling DevOps
 - 🌱 I'm currently learning:
-  - Databricks
-  - Apache Spark
+  - Databricks and Apache Spark
   - Python and Jupyter
   - C# and .NET
   - Linux and Docker
