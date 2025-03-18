@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**hknutsen/hknutsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on:
+  - Enabling DevOps
+- 🌱 I'm currently learning:
+  - Databricks
+  - Python and Jupyter
+  - C# and .NET
+  - Linux and Docker
+- 💬 Ask me about:
+  - Microsoft Azure
+  - HashiCorp Terraform / Bicep
+  - Bash / PowerShell
+- I want to learn:
+  - Kubernetes
+  - JavaScript / TypeScript
+  - Java
+- ⚡ Fun fact: metal enthusiast 🤘
