@@ -3,8 +3,7 @@
 - 🔭 I'm currently working on: enabling DevOps.
 - 🌱 I'm currently learning:
   - Databricks and Apache Spark
-  - Python (relearning) and Jupyter
-  - C# and .NET
+  - Python and Jupyter
   - Ansible
 - 💬 Ask me about:
   - Linux
@@ -14,6 +13,6 @@
   - Bash / PowerShell
 - 🚀 I want to learn:
   - Docker and Kubernetes
+  - C# and .NET
   - JavaScript / TypeScript and Node.js
-  - Java
 - ⚡ Fun fact: metal enthusiast 🤘
