@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-- 🔭 I'm currently working on:
-  - Enabling DevOps
+- 🔭 I'm currently working on: enabling DevOps.
 - 🌱 I'm currently learning:
   - Databricks and Apache Spark
-  - Python and Jupyter
+  - Python (relearning) and Jupyter
   - C# and .NET
-  - Linux and Docker
+  - Ansible
 - 💬 Ask me about:
-  - Microsoft Azure
+  - Linux
   - Git / GitHub
+  - Microsoft Azure
   - HashiCorp Terraform / Bicep
   - Bash / PowerShell
 - 🚀 I want to learn:
-  - Kubernetes
+  - Docker and Kubernetes
   - JavaScript / TypeScript and Node.js
   - Java
 - ⚡ Fun fact: metal enthusiast 🤘
