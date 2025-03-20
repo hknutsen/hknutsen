@@ -7,10 +7,10 @@
   - Ansible
 - 💬 Ask me about:
   - Linux
-  - Git / GitHub
+  - Git and GitHub
   - Microsoft Azure
-  - HashiCorp Terraform / Bicep
-  - Bash / PowerShell
+  - HashiCorp Terraform and Bicep
+  - Bash and PowerShell
 - 🚀 I want to learn:
   - Docker and Kubernetes
   - C# and .NET
