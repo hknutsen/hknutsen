@@ -6,8 +6,8 @@
   - Python and Jupyter
   - Docker and Kubernetes
   - Ansible
-- 💬 Ask me about:
   - Linux
+- 💬 Ask me about:
   - Git and GitHub
   - Microsoft Azure
   - HashiCorp Terraform and Bicep
