@@ -4,25 +4,16 @@ I'm Henrik - professional DevOps engineer, family sysadmin.
 
 - 🔭 I'm currently working on: enabling DevOps.
 - 🌱 I'm currently learning:
-  - Apache Spark
-  - Databricks
-  - Python
-  - Jupyter
-  - Linux
-  - Ansible
-  - Docker
+  - Apache Spark and Databricks
+  - Python and Jupyter
+  - Linux and Ansible
 - 💬 Ask me about:
-  - Git
-  - GitHub
+  - Git and GitHub
   - Microsoft Azure
-  - HashiCorp Terraform
-  - Bicep
-  - Bash
-  - PowerShell
+  - HashiCorp Terraform or Bicep
+  - Bash or PowerShell
 - 🚀 I want to learn:
-  - Kubernetes
-  - C#
-  - .NET
-  - JavaScript / TypeScript
-  - Node.js
+  - Docker and Kubernetes
+  - C# and .NET
+  - JavaScript / TypeScript and Node.js
 - ⚡ Fun fact: metal enthusiast 🤘
