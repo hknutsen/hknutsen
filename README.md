@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Henrik - professional DevOps engineer, family system administrator.
+I'm Henrik - professional DevOps engineer, family sysadmin.
 
 - 🔭 I'm currently working on: enabling DevOps.
 - 🌱 I'm currently learning:
