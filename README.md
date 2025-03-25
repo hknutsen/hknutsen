@@ -12,6 +12,7 @@ I'm Henrik - professional DevOps engineer, family sysadmin.
   - Microsoft Azure
   - HashiCorp Terraform or Bicep
   - Bash or PowerShell
+  - Visual Studio Code
 - 🚀 I want to learn:
   - Docker and Kubernetes
   - Python and Jupyter
