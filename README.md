@@ -16,4 +16,5 @@ I'm Henrik - professional DevOps engineer, family sysadmin.
   - Docker and Kubernetes
   - C# and .NET
   - JavaScript / TypeScript and Node.js
+  - Java
 - ⚡ Fun fact: metal enthusiast 🤘
