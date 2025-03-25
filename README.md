@@ -5,7 +5,7 @@ I'm Henrik - professional DevOps engineer, family sysadmin.
 - 🔭 I'm currently working on: enabling DevOps.
 - 🌱 I'm currently learning:
   - **Primary goal**: Apache Spark and Databricks
-  - **Secondary goal**: Python and Jupyter
+  - **Secondary goal**: C# and .NET
   - **Personal goal**: Linux and Ansible
 - 💬 Ask me about:
   - Git and GitHub
@@ -14,7 +14,7 @@ I'm Henrik - professional DevOps engineer, family sysadmin.
   - Bash or PowerShell
 - 🚀 I want to learn:
   - Docker and Kubernetes
-  - C# and .NET
+  - Python and Jupyter
   - JavaScript / TypeScript and Node.js
   - Java
 - ⚡ Fun fact: metal enthusiast 🤘
