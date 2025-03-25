@@ -16,5 +16,5 @@ I'm Henrik - professional DevOps engineer, family sysadmin.
 - 🚀 I want to learn:
   - Python and Jupyter
   - FastAPI
-  - JavaScript / TypeScript and Node.js
+  - JavaScript / TypeScript
 - ⚡ Fun fact: metal enthusiast 🤘
