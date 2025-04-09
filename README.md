@@ -18,3 +18,7 @@ I'm Henrik - professional DevOps engineer, family sysadmin.
   - FastAPI
   - JavaScript / TypeScript and Node.js
 - ⚡ Fun fact: metal enthusiast 🤘
+
+## Talks
+
+- ["IaC and then what? You're scared, right?"](https://equinor.github.io/edc2022software/agenda#15115c) at EDC 2022 Software
