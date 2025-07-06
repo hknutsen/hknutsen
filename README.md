@@ -7,8 +7,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Ansible
   - Go
 - 💡 I want to learn:
-  - Docker
-  - Kubernetes
+  - Docker and Kubernetes
   - Python and FastAPI
   - JavaScript and Node.js
   - Java
