@@ -17,3 +17,4 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Microsoft Azure
   - Bash or PowerShell
   - Terraform or Bicep
+  - Visual Studio Code
