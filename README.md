@@ -10,8 +10,6 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Docker and Kubernetes
   - Python and FastAPI
   - JavaScript and Node.js
-  - Java
-  - C/C++
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
