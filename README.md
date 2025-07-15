@@ -4,7 +4,6 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 
 - 🌱 I'm currently learning:
   - Linux
-  - Vim
   - Ansible
   - Go
 - 💡 I want to learn:
