@@ -5,12 +5,12 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 🌱 I'm currently learning:
   - Linux
   - Ansible
-  - Go
+  - Python
 - 💡 I want to learn:
   - Docker and Kubernetes
-  - Python and FastAPI
-  - JavaScript and Node.js
+  - C# and .NET
   - PostgreSQL
+  - JavaScript and Node.js
   - Vim and tmux
   - C/C++
 - 🎓 Ask me about:
