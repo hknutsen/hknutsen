@@ -10,10 +10,9 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Docker and Kubernetes
   - Python and FastAPI
   - JavaScript and Node.js
-  - C# and .NET
-  - Java
   - PostgreSQL
   - Vim and tmux
+  - C/C++
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
