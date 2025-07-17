@@ -12,8 +12,8 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - C# and .NET
   - Microsoft SQL Server or PostgreSQL
   - JavaScript and Node.js
-  - Vim and tmux
   - C/C++
+  - Vim and tmux
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
