@@ -9,8 +9,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 💡 I want to learn:
   - Docker and Kubernetes
   - Python and FastAPI
-  - Java
-  - PostgreSQL
+  - PostgreSQL and SQLite
   - JavaScript and Node.js
   - C and C++
 - 🎓 Ask me about:
