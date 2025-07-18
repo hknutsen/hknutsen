@@ -8,11 +8,11 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Go
 - 💡 I want to learn:
   - Docker and Kubernetes
-  - C and C++
+  - Python
   - C# and .NET
-  - Python and FastAPI
-  - JavaScript and Node.js
   - Microsoft SQL Server or PostgreSQL
+  - JavaScript
+  - C and C++
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
