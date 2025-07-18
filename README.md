@@ -9,13 +9,13 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 💡 I want to learn:
   - Docker and Kubernetes
   - Python and FastAPI
+  - JavaScript and Node.js
   - PostgreSQL
-  - JavaScript
   - C and C++
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
   - Bash or PowerShell
-  - Terraform or Bicep
+  - Terraform
   - GitHub Actions
   - Visual Studio Code
