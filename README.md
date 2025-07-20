@@ -11,7 +11,6 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Python and FastAPI
   - PostgreSQL and SQLite
   - JavaScript and Node.js
-  - C and C++
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
