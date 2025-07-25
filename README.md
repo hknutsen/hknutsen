@@ -5,12 +5,12 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 🌱 I'm currently learning:
   - Linux
   - Ansible
-  - C# and .NET
-- 💡 I want to learn:
   - Python and FastAPI
+- 💡 I want to learn:
   - JavaScript and Node.js
-  - PostgreSQL, SQLite and Microsoft SQL Server
+  - PostgreSQL and SQLite
   - Docker and Kubernetes
+  - Go
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
