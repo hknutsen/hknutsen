@@ -9,7 +9,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 💡 I want to learn:
   - PostgreSQL and SQLite
   - Docker and Kubernetes
-  - JavaScript and Node.js
+  - Go
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
