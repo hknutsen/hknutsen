@@ -4,7 +4,6 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 
 - 🌱 I'm currently learning:
   - Linux
-  - Ansible
   - Python and FastAPI
 - 💡 I want to learn:
   - PostgreSQL and SQLite
@@ -14,7 +13,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Git and GitHub
   - Microsoft Azure
   - Bash or PowerShell
-  - Terraform
+  - Terraform and Ansible
   - GitHub Actions
   - tmux and Vim
   - Visual Studio Code
