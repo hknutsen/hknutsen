@@ -12,6 +12,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
+  - Azure Resource Manager (ARM) and Bicep
   - Bash or PowerShell
   - Terraform and Ansible
   - GitHub Actions
