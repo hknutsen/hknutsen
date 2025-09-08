@@ -17,5 +17,4 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Bash or PowerShell
   - Terraform and Ansible
   - GitHub Actions
-  - tmux and Vim
   - Visual Studio Code
