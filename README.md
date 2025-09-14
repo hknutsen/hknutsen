@@ -4,7 +4,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 
 - 🌱 I'm currently learning:
   - Linux
-  - Python and FastAPI
+  - Python
 - 💡 I want to learn:
   - PostgreSQL and SQLite
   - Docker and Kubernetes
