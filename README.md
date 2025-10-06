@@ -8,12 +8,13 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 💡 I want to learn:
   - PostgreSQL and SQLite
   - Kubernetes
-  - Go
+  - C# and .NET
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
   - Bash or PowerShell
-  - Terraform and Ansible
+  - Terraform or Bicep
+  - Ansible
   - Docker
   - GitHub Actions
   - Visual Studio Code
