@@ -9,12 +9,11 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - PostgreSQL and SQLite
   - Kubernetes
   - Go
-  - C# and .NET
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
   - Bash or PowerShell
-  - Terraform, Ansible or Bicep
+  - Terraform and Ansible
   - Docker
   - GitHub Actions
   - Visual Studio Code
