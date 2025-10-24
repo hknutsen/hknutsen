@@ -2,6 +2,10 @@
 
 I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 
+- 👀 I'm interested in:
+  - DevOps engineering
+  - Backend and API development
+  - Data engineering
 - 🌱 I'm currently learning:
   - Linux
   - Python
