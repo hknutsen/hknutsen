@@ -14,6 +14,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - PostgreSQL and SQLite
   - Kubernetes
   - Go
+  - Rust
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
