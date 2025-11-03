@@ -10,8 +10,9 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Python
 - 💡 I want to learn:
   - C# and .NET
+  - Microsoft SQL Server
   - JavaScript and Node.js
-  - Microsoft SQL Server, PostgreSQL and SQLite
+  - PostgreSQL and SQLite
   - Kubernetes
   - Go
 - 🎓 Ask me about:
