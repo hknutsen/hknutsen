@@ -8,7 +8,10 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 🌱 I'm currently learning:
   - Linux
   - Python
-- 💡 I want to learn:
+- 💡 I want to learn: 
+  - C and C++
+  - Java and Spring Boot
+  - JavaScript and Node.js
   - PostgreSQL and SQLite
   - Kubernetes
   - Go
