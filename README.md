@@ -15,6 +15,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Java and Spring Boot (or C# and .NET)
   - JavaScript and Node.js
   - PostgreSQL and SQLite (or Microsoft SQL Server)
+  - MongoDB
   - Kubernetes
   - Go
 - 🎓 Ask me about:
