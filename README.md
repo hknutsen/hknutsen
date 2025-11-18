@@ -6,6 +6,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Open source software
   - Cloud native computing
   - DevOps engineering
+  - Database management
   - API development
 - 🌱 I'm currently learning:
   - Linux
