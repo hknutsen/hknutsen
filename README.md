@@ -5,18 +5,16 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 👀 I'm interested in:
   - Open source software
   - Cloud native computing
-  - DevOps engineering
-  - Database management
-  - API development
 - 🌱 I'm currently learning:
   - Linux
   - Python
 - 💡 I want to learn: 
-  - PostgreSQL, SQLite and Microsoft SQL Server
-  - JavaScript and Node.js
+  - PostgreSQL and SQLite (or Microsoft SQL Server)
   - Kubernetes
   - Go
   - C and C++
+  - Java and Spring Boot (or C# and .NET)
+  - JavaScript and Node.js
 - 🎓 Ask me about:
   - Git and GitHub
   - Microsoft Azure
