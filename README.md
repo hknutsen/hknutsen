@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**hknutsen/hknutsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning:
+  - Linux
+  - Python
+- 💡 I want to learn:
+  - JavaScript and Node.js
+  - PostgreSQL
+  - Kubernetes
+- 👨‍🎓 Ask me about:
+  - Bash or PowerShell
+  - Git and GitHub
+  - Docker
+  - Microsoft Azure
+  - Terraform
+  - Ansible
+  - GitHub Actions
