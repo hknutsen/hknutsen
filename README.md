@@ -6,7 +6,6 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Linux (Red Hat Enterprise Linux)
   - Python
 - 💡 I want to learn:
-  - JavaScript and Node.js
   - PostgreSQL
   - Kubernetes
 - 👨‍🎓 Ask me about:
