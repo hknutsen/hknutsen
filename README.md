@@ -3,7 +3,7 @@
 I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 
 - 🌱 I'm currently learning:
-  - Linux
+  - Linux (Red Hat Enterprise Linux)
   - Python
 - 💡 I want to learn:
   - JavaScript and Node.js
