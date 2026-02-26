@@ -8,7 +8,6 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 💡 I want to learn:
   - PostgreSQL and SQLite
   - Kubernetes
-  - Go
 - 👨‍🎓 Ask me about:
   - Bash or PowerShell
   - Git and GitHub
