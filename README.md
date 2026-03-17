@@ -6,8 +6,8 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Linux (Red Hat Enterprise Linux)
   - Python
 - 💡 I want to learn:
-  - C# and .NET
-  - Microsoft SQL Server, PostgreSQL or SQLite
+  - PostgreSQL or SQLite
+  - HTML and CSS
   - Kubernetes
   - Go
 - 👨‍🎓 Ask me about:
@@ -15,6 +15,6 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Git and GitHub
   - Docker
   - Microsoft Azure
-  - Terraform or Bicep
+  - Terraform
   - Ansible
   - GitHub Actions
