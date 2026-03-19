@@ -7,14 +7,14 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Python
 - 💡 I want to learn:
   - PostgreSQL or SQLite
-  - HTML, CSS and JavaScript
   - Kubernetes
   - Go
+  - C and C++
 - 👨‍🎓 Ask me about:
   - Bash or PowerShell
   - Git and GitHub
   - Docker
   - Microsoft Azure
-  - Terraform
+  - Terraform or Bicep
   - Ansible
   - GitHub Actions
