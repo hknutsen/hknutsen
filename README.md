@@ -17,6 +17,6 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Git and GitHub
   - Docker
   - Microsoft Azure
-  - Terraform
+  - Terraform or Bicep
   - Ansible
   - GitHub Actions
