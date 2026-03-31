@@ -8,6 +8,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Databricks and Microsoft Fabric
 - 💡 I want to learn:
   - Kubernetes
+  - Go
   - C# and .NET
   - PostgreSQL
   - HTML, CSS and JavaScript
