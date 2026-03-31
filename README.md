@@ -5,8 +5,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 🌱 I'm currently learning:
   - Linux (Red Hat Enterprise Linux)
   - Python
-  - Databricks
-  - Microsoft Fabric
+  - Databricks and Microsoft Fabric
 - 💡 I want to learn:
   - Kubernetes
   - C# and .NET
