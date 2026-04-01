@@ -3,7 +3,7 @@
 I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 
 - 🌱 I'm currently learning:
-  - Linux (Red Hat Enterprise Linux)
+  - Linux (Fedora Linux)
   - Python
   - Databricks and Microsoft Fabric
 - 💡 I want to learn:
