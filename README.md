@@ -9,9 +9,9 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 - 💡 I want to learn:
   - Kubernetes
   - Go
-  - C# and .NET
   - PostgreSQL
   - HTML, CSS and JavaScript
+  - Node.js
   - React
   - TypeScript
 - 👨‍🎓 Ask me about:
