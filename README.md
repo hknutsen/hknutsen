@@ -12,8 +12,8 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - PostgreSQL
   - C# and .NET
   - HTML, CSS and JavaScript
-  - React
   - TypeScript
+  - React
   - Node.js
 - 👨‍🎓 Ask me about:
   - Bash or PowerShell
