@@ -10,10 +10,11 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Kubernetes
   - Go
   - PostgreSQL
+  - C# and .NET
   - HTML, CSS and JavaScript
-  - Node.js
   - React
   - TypeScript
+  - Node.js
 - 👨‍🎓 Ask me about:
   - Bash or PowerShell
   - Git and GitHub
