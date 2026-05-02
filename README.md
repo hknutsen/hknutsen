@@ -6,14 +6,14 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Linux (Fedora Linux)
   - Python
 - 💡 I want to learn:
-  - Kubernetes
-  - Go
+  - Django, Flask or FastAPI
   - PostgreSQL
-  - C# and .NET
   - HTML, CSS and JavaScript
   - TypeScript
   - React
   - Node.js
+  - Kubernetes
+  - Go
 - 👨‍🎓 Ask me about (my areas of expertise):
   - Bash or PowerShell
   - Git and GitHub
