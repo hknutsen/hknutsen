@@ -7,7 +7,6 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Python
 - 💡 I want to learn:
   - PostgreSQL
-  - C# and .NET
   - HTML, CSS and JavaScript
   - TypeScript
   - React
