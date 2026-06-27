@@ -19,3 +19,4 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - Terraform or Bicep
   - Ansible
   - GitHub Actions
+  - Grafana
