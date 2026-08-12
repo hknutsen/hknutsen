@@ -3,7 +3,7 @@
 I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
 
 - 🌱 I'm currently learning:
-  - Fedora Linux
+  - Ubuntu and Fedora Linux
   - Python
 - 💡 I want to learn:
   - PostgreSQL
