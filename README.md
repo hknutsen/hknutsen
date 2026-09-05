@@ -11,6 +11,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - TypeScript
   - React
   - Kubernetes
+  - Go
 - 👨‍🎓 Ask me about (my areas of expertise):
   - Bash or PowerShell
   - Git and GitHub
