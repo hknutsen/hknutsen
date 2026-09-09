@@ -10,6 +10,7 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - HTML, CSS and JavaScript
   - TypeScript
   - React
+  - Rust
   - Kubernetes
   - Go
 - 👨‍🎓 Ask me about (my areas of expertise):
