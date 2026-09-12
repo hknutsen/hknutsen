@@ -12,11 +12,11 @@ I'm Henrik Knutsen - professional DevOps engineer, family sysadmin.
   - React
   - Kubernetes
 - 👨‍🎓 Ask me about (my areas of expertise):
-  - Bash or PowerShell
+  - Bash
   - Git and GitHub
   - Docker
   - Microsoft Azure
-  - Terraform or Bicep
+  - Terraform
   - Ansible
   - GitHub Actions
   - Grafana
